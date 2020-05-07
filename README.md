@@ -32,5 +32,5 @@ numpyメーリングリスト、スタックオーバーフロー、numpyドキ�
 キー付きテキストフォーマット(`ktx`)は、キーによってインデックス化されたテキスト(markdownなど)を格納するための、人間が読める最小限のキー値を持つフォーマットである。
 
 この作品はMITライセンスでライセンスされています。 
-[!DOI](https://zenodo.org/badge/10173/rougier/numpy-100.svg)](https://zenodo.org/badge/latestdoi/10173/rougier/numpy-100)
+[![DOI](https://zenodo.org/badge/10173/rougier/numpy-100.svg)](https://zenodo.org/badge/latestdoi/10173/rougier/numpy-100)
 
